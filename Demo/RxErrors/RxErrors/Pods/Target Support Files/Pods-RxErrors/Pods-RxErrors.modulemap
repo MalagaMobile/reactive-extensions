@@ -1,0 +1,6 @@
+framework module Pods_RxErrors {
+  umbrella header "Pods-RxErrors-umbrella.h"
+
+  export *
+  module * { export * }
+}
